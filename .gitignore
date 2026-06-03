@@ -1,0 +1,7 @@
+local.settings.json
+.vscode/
+bin/
+obj/
+Properties/
+# Ignore all files and directories beginning with "__" at any depth
+__*
